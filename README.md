@@ -1,10 +1,9 @@
 # guess-it
 
 ##### Instructions
-1. Run the server
-> go run server.go
-2. Open http://localhost:8080
+> go run .
+2. Choose who is going to guess (PC - choose 1 / User - choose 2)
 
 ##### Information
-Task of kood/Jõhvi school. CSS was improved.
-You can convert your text to ASCII art, download the result, view all ASCII art records.
+Simple guesser. At first it was code task from Golang for beginners book, where we have to guess number by PC.
+I also made for PC to guess our number. It can guess it on average in 5 tries.
